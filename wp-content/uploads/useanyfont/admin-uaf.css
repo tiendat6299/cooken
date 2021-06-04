@@ -1,0 +1,11 @@
+				@font-face {
+					font-family: 'hj-gotham-medium';
+					src: url('/Cooken/wp-content/uploads/useanyfont/9273-HJ-Gotham-Medium.woff2') format('woff2'),
+						url('/Cooken/wp-content/uploads/useanyfont/9273-HJ-Gotham-Medium.woff') format('woff');
+				}
+
+				.hj-gotham-medium{font-family: 'hj-gotham-medium' !important;}
+
+				.et_gf_hj-gotham-medium{background:none !important;font-family:hj-gotham-medium;text-indent:0 !important;font-size:25px;}
+
+		

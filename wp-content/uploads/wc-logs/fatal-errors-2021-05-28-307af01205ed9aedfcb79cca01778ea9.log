@@ -1,0 +1,6 @@
+2021-05-28T09:16:45+00:00 CRITICAL Unclosed '{' on line 6 in C:\xampp\htdocs\Cooken\wp-content\themes\flatsome-child\functions.php on line 8
+
+2021-05-28T09:17:33+00:00 CRITICAL Unclosed '{' on line 6 in C:\xampp\htdocs\Cooken\wp-content\themes\flatsome-child\functions.php on line 10
+
+2021-05-28T09:17:43+00:00 CRITICAL syntax error, unexpected token ">" in C:\xampp\htdocs\Cooken\wp-content\themes\flatsome-child\functions.php on line 8
+

@@ -22771,7 +22771,7 @@ msgstr "tu-khoa-san-pham"
 #: packages/woocommerce-blocks/build/atomic-block-components/add-to-cart-frontend.js:1
 #: packages/woocommerce-blocks/build/atomic-block-components/button-frontend.js:1
 msgid "Add to cart"
-msgstr "Thêm vào giỏ hàng"
+msgstr "Thêm vào giỏ"
 
 #: includes/admin/class-wc-admin-menus.php:84
 #: includes/admin/views/html-admin-page-status-report.php:737
